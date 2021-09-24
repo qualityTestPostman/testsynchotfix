@@ -34,7 +34,7 @@
       "response": []
     },
     {
-      "name": "New Request",
+      "name": "echo 02",
       "id": "71e55233-9eff-4c45-8022-2eb469ee9007",
       "protocolProfileBehavior": {
         "disableBodyPruning": true
@@ -42,7 +42,22 @@
       "request": {
         "method": "GET",
         "header": [],
-        "url": null
+        "url": {
+          "raw": "postman-echo.com/get?echo=two",
+          "host": [
+            "postman-echo",
+            "com"
+          ],
+          "path": [
+            "get"
+          ],
+          "query": [
+            {
+              "key": "echo",
+              "value": "two"
+            }
+          ]
+        }
       },
       "response": []
     }
