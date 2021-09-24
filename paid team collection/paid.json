@@ -7,7 +7,7 @@
   "item": [
     {
       "name": "echo 1",
-      "id": "b9b32b9d-a257-4e4a-8c10-07926e901b03",
+      "_postman_id": "b9b32b9d-a257-4e4a-8c10-07926e901b03",
       "protocolProfileBehavior": {
         "disableBodyPruning": true
       },
@@ -15,19 +15,6 @@
         "method": "GET",
         "header": [],
         "url": "postman-echo.com/get"
-      },
-      "response": []
-    },
-    {
-      "name": "New Request",
-      "id": "7765fca7-55b9-472a-ac25-42b1034c9c51",
-      "protocolProfileBehavior": {
-        "disableBodyPruning": true
-      },
-      "request": {
-        "method": "GET",
-        "header": [],
-        "url": null
       },
       "response": []
     }
