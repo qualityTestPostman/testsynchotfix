@@ -1,7 +1,7 @@
 openapi: 3.0.0
 info:
   version: '1.0'
-  title: solo user api updated in pm
+  title: solo user api updated in pm with commit #2
 servers:
   - url: 'https://petstore.swagger.io/v1'
 paths:
