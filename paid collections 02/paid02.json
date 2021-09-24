@@ -60,6 +60,19 @@
         }
       },
       "response": []
+    },
+    {
+      "name": "New Request",
+      "id": "53726d6c-ba47-4ae4-b89e-94a668933a00",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": null
+      },
+      "response": []
     }
   ]
 }
