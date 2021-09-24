@@ -47,7 +47,7 @@
       "response": []
     },
     {
-      "name": "New Request",
+      "name": "echo 3",
       "id": "f5755362-359d-4827-8011-c2954b9b8218",
       "protocolProfileBehavior": {
         "disableBodyPruning": true
