@@ -70,7 +70,22 @@
       "request": {
         "method": "GET",
         "header": [],
-        "url": null
+        "url": {
+          "raw": "postman-echo.com/get?paid=three",
+          "host": [
+            "postman-echo",
+            "com"
+          ],
+          "path": [
+            "get"
+          ],
+          "query": [
+            {
+              "key": "paid",
+              "value": "three"
+            }
+          ]
+        }
       },
       "response": []
     }
