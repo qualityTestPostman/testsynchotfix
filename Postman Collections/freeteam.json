@@ -55,7 +55,26 @@
       "request": {
         "method": "GET",
         "header": [],
-        "url": null
+        "url": {
+          "raw": "postman-echo.com/get?some=thing&new=thing",
+          "host": [
+            "postman-echo",
+            "com"
+          ],
+          "path": [
+            "get"
+          ],
+          "query": [
+            {
+              "key": "some",
+              "value": "thing"
+            },
+            {
+              "key": "new",
+              "value": "thing"
+            }
+          ]
+        }
       },
       "response": []
     }
